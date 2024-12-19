@@ -16,9 +16,4 @@ print("Square root of 25:", math.sqrt(25))
 import os  
 
 # Print the current working directory
-<<<<<<< Updated upstream
 print("Current working directory:", os.getcwd())
-=======
-
-print("Current working directory:", os.getcwd())
->>>>>>> Stashed changes
