@@ -11,3 +11,9 @@ import math
 
 # Calculating the square root of a number
 print("Square root of 25:", math.sqrt(25))
+
+# Import os to interact with the operating system
+import os  
+
+# Print the current working directory
+print("Current working directory:", os.getcwd())
