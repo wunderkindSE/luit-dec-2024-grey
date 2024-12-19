@@ -1,4 +1,6 @@
 import hello_world
+
+# Import random for generating random numbers
 import random 
 
 # Randint is the function that returns a random integer
@@ -11,8 +13,7 @@ import math
 print("Square root of 25:", math.sqrt(25))
 
 # Import os to interact with the operating system
-import os
+import os  
 
 # Print the current working directory
 print("Current working directory:", os.getcwd())
-
