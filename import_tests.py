@@ -1,7 +1,7 @@
 import hello_world
 
 # Import random for generating random numbers
-import random 
+import random
 
 # Randint is the function that returns a random integer
 print("Display a random number between 1 and 1000:", random.randint(1, 1000))
@@ -13,12 +13,7 @@ import math
 print("Square root of 25:", math.sqrt(25))
 
 # Import os to interact with the operating system
-import os  
+import os 
 
 # Print the current working directory
-<<<<<<< Updated upstream
 print("Current working directory:", os.getcwd())
-=======
-
-print("Current working directory:", os.getcwd())
->>>>>>> Stashed changes
