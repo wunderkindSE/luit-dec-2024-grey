@@ -1,4 +1,5 @@
-import random # Import random for generating random numbers
+# Import random for generating random numbers
+import random
 
 # Randint is the function that returns a random integer
 print("Display a random number between 1 and 1000:", random.randint(1, 1000))
