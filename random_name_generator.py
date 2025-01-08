@@ -1,5 +1,5 @@
-import string #allow chars
-import random #library to generate random numbers
+import string 
+import random # Library to generate random numbers
 
 department = ['Marketing', 'Accounting', 'FinOps']
 
