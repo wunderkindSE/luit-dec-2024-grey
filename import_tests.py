@@ -1,3 +1,5 @@
+#import hello_world # If I import a file from this repo, the code inside it will run
+
 # Import random for generating random numbers
 import random
 
